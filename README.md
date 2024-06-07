@@ -1,7 +1,7 @@
 ### Hi there, I'm Xavier👋
 
 # 💫 About Me:
-🔭 I’m currently working on a 2D Fighting Game in Unity<br>🤝 I’m looking for Fall 2024 internships<br>🌱 I’m currently learning Cloud Computing with AWS<br>📫 How to reach me: xavier.lermusieaux@gmail.com<br>😄 Pronouns: He/Him
+🔭 I’m currently working on a CLI Budget Planner application in C++ with PostgreSQL<br>🤝 I’m looking for Fall 2024 internships<br>🌱 I’m currently learning Cloud Computing with AWS<br>📫 How to reach me: xavier.lermusieaux@gmail.com<br>😄 Pronouns: He/Him
 
 
 ## 🌐 Socials:
