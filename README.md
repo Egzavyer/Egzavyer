@@ -1,7 +1,7 @@
 ### Hi there, I'm Xavier👋
 
 # 💫 About Me:
-🔭 I’m currently working on a Gnutella-like, cross-platform local P2P File-Sharing System in C++ called w1nja2!<br>🤝 I’m looking for Summer 2025 internships<br>🌱 I’m currently learning about Embedded Software Development on an STM32<br>📫 How to reach me: xavier.lermusieaux@gmail.com<br>😄 Pronouns: He/Him
+🔭 I’m currently working on a Gnutella-like, cross-platform local P2P File-Sharing System in C++ called w1nja2!<br>🤝 I’m looking for Summer 2026 internships<br>🌱 I’m currently learning about Embedded Software Development on an STM32<br>📫 How to reach me: xavier.lermusieaux@gmail.com<br>😄 Pronouns: He/Him
 
 
 ## 🌐 Socials:
