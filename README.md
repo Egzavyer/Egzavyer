@@ -4,11 +4,11 @@
 
 ###
 
-<h3 align="left">💫 About Me:</h3>
+<h2 align="left">💫 About Me:</h2>
 
 ###
 
-<h3>I'm a Software Engineering student from the University of Ottawa</h4>
+<h3>I'm a Software Engineering student from the University of Ottawa</h3>
 
 - 🔭 I’m currently working on Bingo, a visual concurrency debugger for Go, with xsachax and jwt
 - 🌱 I’m currently learning about
@@ -24,7 +24,7 @@
 
 <br clear="both">
 
-<h3 align="left">🛠 Languages and Tools</h2>
+<h2 align="left">🛠 Languages and Tools</h2>
 
 <div align="center">
   <table width="100%">
