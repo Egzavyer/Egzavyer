@@ -18,39 +18,42 @@
 
 ###
 
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+</div>
+
 <br clear="both">
 
-<div class="tg-wrap" align="center">
-  <table>
+<h2 align="left">Technical Skills</h2>
+
+<div align="center">
+  <table width="100%">
     <thead>
       <tr>
-        <th width="33%">Languages</th>
-        <th width="33%">Frameworks & Libraries</th>
-        <th width="33%">Tools</th>
+        <th width="16%"></th>
+        <th width="28%">Languages</th>
+        <th width="28%">Frameworks & Libraries</th>
+        <th width="28%">Tools</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td colspan="3" align="center">
-          <b>Current Stack</b>
-        </td>
-      </tr>
-      <tr>
-        <td align="center" width="33%" valign="top">
+        <td align="center"><b>Current</b></td>
+        <td valign="top" align="left">
           <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo" /></a>
           <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" /></a>
           <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" /></a>
           <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" /></a>
           <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" /></a>
         </td>
-        <td align="center" width="33%" valign="top">
+        <td valign="top" align="left">
           <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" /></a>
           <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo" /></a>
           <a href="https://vite.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" /></a>
           <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" /></a>
           <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" /></a>
         </td>
-        <td align="center" width="33%" valign="top">
+        <td valign="top" align="left">
           <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" /></a>
           <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" /></a>
           <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" /></a>
@@ -64,12 +67,8 @@
         </td>
       </tr>
       <tr>
-        <td colspan="3" align="center">
-          <b>Previously Used</b>
-        </td>
-      </tr>
-      <tr>
-        <td align="center" width="33%" valign="top">
+        <td align="center"><b>Previously Used</b></td>
+        <td valign="top" align="left">
           <a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" /></a>
           <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" /></a>
           <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo" /></a>
@@ -78,7 +77,7 @@
           <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" /></a>
           <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" /></a>
         </td>
-        <td align="center" width="33%" valign="top">
+        <td valign="top" align="left">
           <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" /></a>
           <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" /></a>
           <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" /></a>
@@ -86,7 +85,7 @@
           <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" /></a>
           <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="40" alt="opencv logo" /></a>
         </td>
-        <td align="center" width="33%" valign="top">
+        <td valign="top" align="left">
           <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" /></a>
           <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" /></a>
           <a href="https://bitbucket.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/bitbucket/0052CC" height="40" alt="bitbucket logo" /></a>
@@ -103,32 +102,17 @@
         </td>
       </tr>
       <tr>
-        <td colspan="3" align="center">
-          <b>Intend to Use in Future</b>
-        </td>
-      </tr>
-      <tr>
-        <td align="center" width="33%" valign="top">
+        <td align="center"><b>Future</b></td>
+        <td valign="top" align="left">
           <a href="https://ziglang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original.svg" height="40" alt="zig logo" /></a>
         </td>
-        <td align="center" width="33%" valign="top">
+        <td valign="top" align="left">
           <a href="https://tauri.app/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/tauri/FFC131" height="40" alt="tauri logo" /></a>
         </td>
-        <td align="center" width="33%" valign="top"></td>
+        <td valign="top" align="left"></td>
       </tr>
     </tbody>
   </table>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Egzavyer.Egzavyer&right_color=turquoise&left_text=views"  />
 </div>
 
 ###
