@@ -10,7 +10,7 @@
 
 <h3>I'm a Software Engineering student from the University of Ottawa</h3>
 
-- 🔭 I’m currently working on [Bingo](https://github.com/bingosuite/bingo), a visual concurrency debugger for Go, with [xsachax](https://github.com/xsachax) and [jwt](https://github.com/jwt2706)
+- 🔭 I’m currently working on [Bingo](https://github.com/bingosuite/bingo), a visual concurrency debugger for Go, with [xsachax](https://github.com/xsachax) and [jwt2706](https://github.com/jwt2706)
 - 🌱 I’m currently learning about
 - 📫 Contact me at: xavier.lermusieaux@gmail.com
 - 🌐 Reach out in French or English!
