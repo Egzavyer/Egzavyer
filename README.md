@@ -11,7 +11,8 @@
 <h3>I'm a Software Engineering student from the University of Ottawa</h3>
 
 - 🔭 I’m currently working on [Bingo](https://github.com/bingosuite/bingo), a visual concurrency debugger for Go, with [xsachax](https://github.com/xsachax) and [jwt2706](https://github.com/jwt2706)
-- 🌱 I’m currently learning about Low-Level Embedded Robotics Systems
+- 🔭 I'm also working on [Spool](https://github.com/Egzavyer/spool), a Go-based distributed job queue and worker system for reliable asynchronous task processing
+- 🌱 I’m currently learning about Distributed Systems with Go
 - 📫 Contact me at: xavier.lermusieaux@gmail.com
 - 🌐 Reach out in French or English!
 - 😄 Pronouns: He/Him
